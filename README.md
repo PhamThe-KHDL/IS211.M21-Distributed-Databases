@@ -35,6 +35,12 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 
 
+
+## Môi Trường/Công Cụ Thực Hành
+- [Oracle Database 19c](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c)
+- [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox)
+- **Note**: Đăng ký tài khoản Oracle tại [Sign up](https://profile.oracle.com/myprofile/account/create-account.jspx)
+
 ## Tham Khảo Thêm
 
 
