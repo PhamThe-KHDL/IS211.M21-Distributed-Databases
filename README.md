@@ -37,13 +37,22 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 
 ## Môi Trường/Công Cụ Thực Hành
-- [Oracle Database 19c](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c)
-- [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox)
-- [Link tải máy ảo Virtual Box](https://drive.google.com/file/d/1AlxL2t9DpuGW79hVkj1YUaapSQvDIlER/view)
-  + Windows XP SP3 + Windows Powershell 2.0 + Oracle 11gR2 
-  + (Password user sys: Oracle123456)
-  + MD5: F22E8AEA0DB5B2C217E6EA4F65EE9CBA
-- **Note**: Nếu chưa có tài khoản Oracle thì đăng ký tài khoản Oracle tại -> [Sign up](https://profile.oracle.com/myprofile/account/create-account.jspx)
+
+### Cài đặt Oracle: [Oracle Database 19c](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c)
+
+
+
+### Cài đặt SQL Developer: [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox)
+
+
+### Cài đặt Máy ảo: [Link tải máy ảo Virtual Box](https://drive.google.com/file/d/1AlxL2t9DpuGW79hVkj1YUaapSQvDIlER/view)
+- Windows XP SP3 + Windows Powershell 2.0 + Oracle 11gR2 
+- (Password user sys: Oracle123456)
+- MD5: F22E8AEA0DB5B2C217E6EA4F65EE9CBA
+
+
+
+### **Note**: Nếu chưa có tài khoản Oracle thì đăng ký tài khoản Oracle tại -> [Sign up](https://profile.oracle.com/myprofile/account/create-account.jspx)
 
 ## Tham Khảo Thêm
 
