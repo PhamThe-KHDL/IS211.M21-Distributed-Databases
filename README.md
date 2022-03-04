@@ -50,7 +50,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 
 ### Cài đặt Oracle VM VirtualBox Extension Pack [Download Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
-**Note**: Chọn phiên bản phù hợp với phiên bản của VirtualBox đã cài.
+**Note**: Chọn phiên bản phù hợp với phiên bản của VirtualBox đã cài đặt.
 
 
 ### Cài đặt máy ảo: [Link tải máy ảo Virtual Box](https://drive.google.com/file/d/1AlxL2t9DpuGW79hVkj1YUaapSQvDIlER/view)
