@@ -93,7 +93,7 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
 </center>
 
-- **Bước 6**: 
+- **Bước 6**: Màn hình sẽ xuất hiện ra như hình dưới, ta chọn **Agree**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/5%20-%20Agree.PNG" width="800" alt="Agree" />
@@ -102,13 +102,13 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 - **Bước 7**: Chờ 1 khoảng thời gian để máy ảo cài đặt. Sau khi đã cài đặt xong, ta tiến hành mở máy ảo lên để chạy thử.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/5%20-%20Finish.PNG" width="800" alt="Finish" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/6%20-%20Finish.PNG" width="800" alt="Finish" />
 </center>
 
 - **Bước 8**: Giao diện của máy ảo Cloudera như hình dưới. Đến đây là chúng ta đã cài đặt xong máy ảo Cloudera để thực hành **Phân Tích Dữ Liệu Lớn**.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/6%20-%20Done.PNG" width="800" alt="Done" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/7%20-%20Done.PNG" width="800" alt="Done" />
 </center>
 
 
