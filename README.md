@@ -54,9 +54,62 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 
 ### Cài đặt máy ảo: [Link tải máy ảo Virtual Box](https://drive.google.com/file/d/1AlxL2t9DpuGW79hVkj1YUaapSQvDIlER/view)
-- Windows XP SP3 + Windows Powershell 2.0 + Oracle 11gR2 
-- (Password user sys: Oracle123456)
-- MD5: F22E8AEA0DB5B2C217E6EA4F65EE9CBA
+
+Windows XP SP3 + Windows Powershell 2.0 + Oracle 11gR2 
+
+(Password user sys: Oracle123456)
+
+MD5: F22E8AEA0DB5B2C217E6EA4F65EE9CBA
+
+Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến hành cài đặt máy ảo Cloudera:
+
+- **Bước 1**: Từ giao diện VirtualBox ta chọn vào **Import** (Tools -> Import)
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/0%20-%20GiaoDienVirtualBox.PNG" width="800" alt="GiaoDienVirtualBox" />
+</center>
+
+- **Bước 2**: Màn hình sẽ xuất hiện như hình dưới. Tiếp theo, chúng ta sẽ chọn file máy ảo.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/1%20-%20Import.PNG" width="800" alt="Import" />
+</center>
+
+- **Bước 3**: Tìm đến đường dẫn chứa file máy ảo, nhấn chọn vào file và nhấn **Open**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/2%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
+</center>
+
+- **Bước 4**: Sau khi đã chọn được file, ta nhấn **Next**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
+</center>
+
+- **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiến hành cài đặt bằng cách nhấn vào **Import**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
+</center>
+
+- **Bước 6**: 
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/5%20-%20Agree.PNG" width="800" alt="Agree" />
+</center>
+
+- **Bước 7**: Chờ 1 khoảng thời gian để máy ảo cài đặt. Sau khi đã cài đặt xong, ta tiến hành mở máy ảo lên để chạy thử.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/5%20-%20Finish.PNG" width="800" alt="Finish" />
+</center>
+
+- **Bước 8**: Giao diện của máy ảo Cloudera như hình dưới. Đến đây là chúng ta đã cài đặt xong máy ảo Cloudera để thực hành **Phân Tích Dữ Liệu Lớn**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS200.M21-Big-Data/blob/main/Image/6%20-%20Done.PNG" width="800" alt="Done" />
+</center>
 
 
 
