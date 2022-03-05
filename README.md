@@ -56,6 +56,49 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ### Cài đặt Oracle VM VirtualBox Extension Pack: [Download Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 **Note**: Chọn phiên bản phù hợp với phiên bản của VirtualBox đã cài đặt.
 
+- **Bước 1**: Từ giao diện VirtualBox ta chọn vào **Import** (Tools -> Import)
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/0%20-%20GiaoDienVirtualBox.PNG" width="800" alt="GiaoDienVirtualBox" />
+</center>
+
+- **Bước 2**: Màn hình sẽ xuất hiện như hình dưới. Tiếp theo, chúng ta sẽ chọn file máy ảo.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/1%20-%20Import.PNG" width="800" alt="Import" />
+</center>
+
+- **Bước 3**: Tìm đến đường dẫn chứa file máy ảo, nhấn chọn vào file và nhấn **Open**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/2%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
+</center>
+
+- **Bước 4**: Sau khi đã chọn được file, ta nhấn **Next**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
+</center>
+
+- **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiến hành cài đặt bằng cách nhấn vào **Import**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
+</center>
+
+- **Bước 6**: Màn hình sẽ xuất hiện ra như hình dưới, ta chọn **Agree**.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/5%20-%20Agree.PNG" width="800" alt="Agree" />
+</center>
+
+- **Bước 7**: Chờ 1 khoảng thời gian để máy ảo cài đặt. Sau khi đã cài đặt xong, ta tiến hành mở máy ảo lên để chạy thử.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/6%20-%20Finish.PNG" width="800" alt="Finish" />
+</center>
+
+
 
 ### Cài đặt máy ảo: [Link tải máy ảo Virtual Box](https://drive.google.com/file/d/1AlxL2t9DpuGW79hVkj1YUaapSQvDIlER/view)
 
