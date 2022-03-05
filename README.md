@@ -80,22 +80,22 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex03%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
 </center>
 
-- **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiến hành cài đặt bằng cách nhấn vào **Import**.
+- **Bước 5**: Màn hình sẽ hiện ra như hình dưới, ta nhấn **Install**
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/4%20-%20TongTinMayAo.PNG" width="800" alt="TongTinMayAo" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex04%20-%20Install.PNG" width="800" alt="Install" />
 </center>
 
 - **Bước 6**: Màn hình sẽ xuất hiện ra như hình dưới, ta chọn **Agree**.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/5%20-%20Agree.PNG" width="800" alt="Agree" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex05%20-%20Agree.PNG" width="800" alt="Agree" />
 </center>
 
-- **Bước 7**: Chờ 1 khoảng thời gian để máy ảo cài đặt. Sau khi đã cài đặt xong, ta tiến hành mở máy ảo lên để chạy thử.
+- **Bước 7**: Chờ 1 khoảng thời gian để Extension cài đặt. Sau khi màn hình xuất hiện như bên dưới thì ta đã cài đặt thành công.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/6%20-%20Finish.PNG" width="800" alt="Finish" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex06%20-%20Success.PNG" width="800" alt="Finish" />
 </center>
 
 
