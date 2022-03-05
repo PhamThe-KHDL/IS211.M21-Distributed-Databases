@@ -65,7 +65,7 @@ Windows XP SP3 + Windows Powershell 2.0 + Oracle 11gR2
 
 MD5: F22E8AEA0DB5B2C217E6EA4F65EE9CBA
 
-Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến hành cài đặt máy ảo Cloudera:
+Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong phần cài đặt Oracle VM VirtualBox Extension Pack, chúng ta sẽ tiến hành cài đặt máy ảo Windows XP:
 
 - **Bước 1**: Từ giao diện VirtualBox ta chọn vào **Import** (Tools -> Import)
 
