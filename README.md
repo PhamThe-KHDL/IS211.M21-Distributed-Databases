@@ -38,6 +38,10 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ## Môi Trường/Công Cụ Thực Hành
 
+
+### **Note**: Nếu chưa có tài khoản Oracle thì đăng ký tài khoản Oracle tại -> [Sign up](https://profile.oracle.com/myprofile/account/create-account.jspx)
+
+
 ### Cài đặt Oracle: [Oracle Database 19c](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c)
 
 
@@ -113,7 +117,7 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
 
 
 
-### **Note**: Nếu chưa có tài khoản Oracle thì đăng ký tài khoản Oracle tại -> [Sign up](https://profile.oracle.com/myprofile/account/create-account.jspx)
+
 
 ## Tham Khảo Thêm
 
