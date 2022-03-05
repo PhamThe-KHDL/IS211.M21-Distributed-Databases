@@ -105,7 +105,7 @@ Sau khi đã tải đầy đủ các file cần thiết, chúng ta sẽ tiến h
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/6%20-%20Finish.PNG" width="800" alt="Finish" />
 </center>
 
-- **Bước 8**: Giao diện của máy ảo Windowns XP như hình dưới. Đến đây là chúng ta đã cài đặt xong máy ảo để thực hành **Cơ Sở Dữ Liệu Phân Tán**.
+- **Bước 8**: Giao diện của máy ảo Windows XP như hình dưới. Đến đây là chúng ta đã cài đặt xong máy ảo để thực hành **Cơ Sở Dữ Liệu Phân Tán**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/7%20-%20Done.PNG" width="800" alt="Done" />
