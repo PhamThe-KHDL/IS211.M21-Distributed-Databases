@@ -56,28 +56,28 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ### Cài đặt Oracle VM VirtualBox Extension Pack: [Download Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 **Note**: Chọn phiên bản phù hợp với phiên bản của VirtualBox đã cài đặt.
 
-- **Bước 1**: Từ giao diện VirtualBox ta chọn vào **Import** (Tools -> Import)
+- **Bước 1**: Cài đặt Oracle VM VirtualBox Extension Pack bằng cách nhấn vào **All supported platforms** trên trang chủ virtualbox.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/0%20-%20GiaoDienVirtualBox.PNG" width="800" alt="GiaoDienVirtualBox" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex0%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
 </center>
 
-- **Bước 2**: Màn hình sẽ xuất hiện như hình dưới. Tiếp theo, chúng ta sẽ chọn file máy ảo.
+- **Bước 2**: Từ giao diện VirtualBox ta chọn **File -> Preferences**.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/1%20-%20Import.PNG" width="800" alt="Import" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex01%20-%20Preferences.PNG" width="800" alt="Preferences" />
 </center>
 
-- **Bước 3**: Tìm đến đường dẫn chứa file máy ảo, nhấn chọn vào file và nhấn **Open**.
+- **Bước 3**: Tiếp theo, ta chọn vào **Extension**.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/2%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex02%20-%20Extension.PNG" width="800" alt="Extension" />
 </center>
 
-- **Bước 4**: Sau khi đã chọn được file, ta nhấn **Next**.
+- **Bước 4**: Tìm đến đường dẫn chứa file Extension, nhấn chọn vào file và nhấn **Open**.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/3%20-%20CaiDat.PNG" width="800" alt="CaiDat" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex03%20-%20TimFileImport.PNG" width="800" alt="TimFileImport" />
 </center>
 
 - **Bước 5**: VirtualBox sẽ hiện ra các thông tin máy ảo như hình dưới và chúng ta tiến hành cài đặt bằng cách nhấn vào **Import**.
