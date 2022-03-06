@@ -59,7 +59,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 - **Bước 1**: Cài đặt Oracle VM VirtualBox Extension Pack bằng cách nhấn vào **All supported platforms** trên trang chủ virtualbox.
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex0%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
 </center>
 
 - **Bước 2**: Từ giao diện VirtualBox ta chọn **File -> Preferences**.
