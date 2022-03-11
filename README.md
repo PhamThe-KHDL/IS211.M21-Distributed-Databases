@@ -14,7 +14,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 01 | 25/02/2022 | Tổng Quan Về Cơ Sở Dữ Liệu Phân Tán |  | LT-01 | [1. Tong quan CSDL phan tan](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/1.%20Tong%20quan%20CSDL%20phan%20tan.pdf) |  | [01 - Tổng Quan Về Cơ Sở Dữ Liệu Phân Tán](https://youtu.be/Ew1Kjng9tYk) |
 | 02 | 11/03/2022 | Kiến Trúc Hệ Quản Trị CSDL Phân Tán, Thiết Kế Cơ Sở Dữ Liệu Phân Tán |  | LT-02 | [2. Kiến trúc Hệ quản trị CSDL phân tán](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/2.%20Ki%E1%BA%BFn%20tr%C3%BAc%20H%E1%BB%87%20qu%E1%BA%A3n%20tr%E1%BB%8B%20CSDL%20ph%C3%A2n%20t%C3%A1n.pdf) <br /> [3. Thiết kế cơ sở dữ liệu phân tán](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/3.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20ph%C3%A2n%20t%C3%A1n.pdf)|  | [02 - Kiến Trúc Hệ Quản Trị CSDL Phân Tán, Thiết Kế Cơ Sở Dữ Liệu Phân Tán](https://youtu.be/4CJlbmykabo) |
-| 03 |  |  |  |  |  |  |  |
+| 03 | 11/03/2022 | Ôn Tập Hệ Quản Trị CSDL Oracle |  | TH-01 |  |  | [Lab 01 - Ôn Tập Hệ Quản Trị CSDL Oracle](https://youtu.be/bcfXauMJzD8) |
 | 04 |  |  |  |  |  |  |  |
 | 05 |  |  |  |  |  |  |  |
 | 06 |  |  |  |  |  |  |  |
