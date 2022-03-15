@@ -72,34 +72,34 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2005.PNG" width="800" alt="Oracle 05" />
 </center>
 
-- **Bước 6**: Tiếp theo, màn hình sẽ xuất hiện như hình dưới. Mặc định trong ô **Oracle base** là **C:\Oracle** ta sẽ thêm thư mục mới, ở đây tôi thêm là **C:\Oracle\PhamThe**. Dưới phần **Passwword** ta nhâp Passwword bất kỳ rồi nất **Next**. 
+- **Bước 6**: Tiếp theo, màn hình sẽ xuất hiện như hình dưới. Mặc định trong ô **Oracle base** là **C:\Oracle** ta sẽ thêm thư mục mới, ở đây tôi thêm là **C:\Oracle\PhamThe**. Dưới phần **Passwword** ta nhập Passwword rồi nhấn **Next**. 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2006.PNG" width="800" alt="Oracle 06" />
 </center>
 
-- **Bước 7**:
+- **Bước 7**: Màn hình xuất hiện như hình dưới, ta nhấn **Yes**
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2007.PNG" width="800" alt="Oracle 07" />
+</center>
+
+- **Bước 8**: Chờ đến khi chạy xong 100%.
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2008.PNG" width="800" alt="Oracle 08" />
 </center>
 
-- **Bước 8**:
-<center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
-</center>
-
 - **Bước 9**:
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2009.PNG" width="800" alt="Oracle 09" />
 </center>
 
 - **Bước 10**:
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2010.PNG" width="800" alt="Oracle 10" />
 </center>
 
 - **Bước 11**:
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2011.PNG" width="800" alt="Oracle 11" />
 </center>
 
 
