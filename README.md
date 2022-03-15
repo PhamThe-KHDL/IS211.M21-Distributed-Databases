@@ -47,7 +47,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 **Yêu Cầu:** RAM tối thiểu 2GB, Bộ nhớ trống tối thiểu 10GB.
 
 
-- **Bước 1**: Sau khi đã tải xong file, ta tiến hành giải nén file ra như hình dưới
+- **Bước 1**: Sau khi đã tải xong file chứa vào thư mục có tên là **Oracle** do ta tự tạo, ta tiến hành giải nén file ra như hình dưới
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2001.PNG" width="800" alt="Oracle 01" />
 </center>
@@ -62,24 +62,24 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2003.PNG" width="800" alt="Oracle 03" />
 </center>
 
-- **Bước 4**: Tiếp theo ta chọn như hình dưới và nhấn **Next**.
+- **Bước 4**: Tiếp theo, ta chọn như hình dưới và nhấn **Next**.
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2004.PNG" width="800" alt="Oracle 04" />
 </center>
 
-- **Bước 5**:
+- **Bước 5**: Tiếp theo, ta chọn vào **Create New Windows User** để tạo **User Name** và **Password**. Sau đó, nhấn **Next**. 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2005.PNG" width="800" alt="Oracle 05" />
 </center>
 
-- **Bước 6**:
+- **Bước 6**: Tiếp theo, màn hình sẽ xuất hiện như hình dưới. Mặc định trong ô **Oracle base** là **C:\Oracle** ta sẽ thêm thư mục mới, ở đây tôi thêm là **C:\Oracle\PhamThe**. Dưới phần **Passwword** ta nhâp Passwword bất kỳ rồi nất **Next**. 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2006.PNG" width="800" alt="Oracle 06" />
 </center>
 
 - **Bước 7**:
 <center>
-    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2008.PNG" width="800" alt="Oracle 08" />
 </center>
 
 - **Bước 8**:
