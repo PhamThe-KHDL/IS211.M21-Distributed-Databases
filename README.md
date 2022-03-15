@@ -44,27 +44,65 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ### Cài đặt Oracle: [Oracle Database 19c](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c)
 
-- **Bước 1**:
+**Yêu Cầu:** RAM tối thiểu 2GB, Bộ nhớ trống tối thiểu 10GB.
 
-- **Bước 2**:
 
-- **Bước 3**:
+- **Bước 1**: Sau khi đã tải xong file, ta tiến hành giải nén file ra như hình dưới
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2001.PNG" width="800" alt="Oracle 01" />
+</center>
 
-- **Bước 4**:
+- **Bước 2**: Click chuột phải vào file **setup.exe** và chọn **Run as administrator**.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2002.PNG" width="800" alt="Oracle 02" />
+</center>
+
+- **Bước 3**: Màn hình cài đặt sẽ hiện ra và ta chọn như hình dưới và nhấn **Next**.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2003.PNG" width="800" alt="Oracle 03" />
+</center>
+
+- **Bước 4**: Tiếp theo ta chọn như hình dưới và nhấn **Next**.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2004.PNG" width="800" alt="Oracle 04" />
+</center>
 
 - **Bước 5**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
 
 - **Bước 6**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
 
 - **Bước 7**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
 
 - **Bước 8**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
 
 - **Bước 9**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
 
 - **Bước 10**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
 
 - **Bước 11**:
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Ex00%20-%20All%20supported%20platforms.PNG" width="800" alt="All supported platforms" />
+</center>
+
+
 
 ### Cài đặt JDK: [Java SE Development Kit 17.0.2 downloads](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 
