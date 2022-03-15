@@ -44,6 +44,27 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ### Cài đặt Oracle: [Oracle Database 19c](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#19c)
 
+- **Bước 1**:
+
+- **Bước 2**:
+
+- **Bước 3**:
+
+- **Bước 4**:
+
+- **Bước 5**:
+
+- **Bước 6**:
+
+- **Bước 7**:
+
+- **Bước 8**:
+
+- **Bước 9**:
+
+- **Bước 10**:
+
+- **Bước 11**:
 
 ### Cài đặt JDK: [Java SE Development Kit 17.0.2 downloads](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 
@@ -51,6 +72,15 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ### Cài đặt SQL Developer: [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox)
 
+- **Bước 1**:
+
+- **Bước 2**:
+
+- **Bước 3**:
+
+- **Bước 4**:
+
+- **Bước 5**:
 
 ### Cài đặt máy ảo: [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
