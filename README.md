@@ -87,21 +87,25 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2008.PNG" width="800" alt="Oracle 08" />
 </center>
 
-- **Bước 9**:
+- **Bước 9**: Sau khi đã chạy xong, màn hình sẽ hiện ra như hình dưới, ta nhấn **Install**.
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2009.PNG" width="800" alt="Oracle 09" />
 </center>
 
-- **Bước 10**:
+- **Bước 10**: Tiếp tục chờ cho chương trình được cài đặt (**Lưu ý**: Có thể chờ hơi lâu nên ta không được phép hủy khi đang cài đặt giữa chừng, nếu không sẽ không cài được và có thể sẽ phải cài lại Win).
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2010.PNG" width="800" alt="Oracle 10" />
 </center>
 
-- **Bước 11**:
+- **Bước 11**: Sau khi chạy được 1 lúc màn hình sẽ hiện ra như hình dưới, ta nhấn **Allow access** và tiếp tục chờ cho chương trình cài đặt xong.
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2011.PNG" width="800" alt="Oracle 11" />
 </center>
 
+- **Bước 12**: Màn hình thông báo Oracle Database 19c đã được cài đặt thành công.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2012.PNG" width="800" alt="Oracle 12" />
+</center>
 
 
 ### Cài đặt JDK: [Java SE Development Kit 17.0.2 downloads](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
