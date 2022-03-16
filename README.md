@@ -118,15 +118,25 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 
 ### Cài đặt SQL Developer: [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox)
 
-- **Bước 1**:
+- **Bước 1**: Sau khi đã tải xong file chứa vào thư mục có tên là **Oracle** do ta tự tạo, ta tiến hành giải nén file ra như hình dưới.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/sqldeveloper%2001.PNG" width="800" alt="sqldeveloper 01" />
+</center>
 
-- **Bước 2**:
+- **Bước 2**: Click duoble chuột phải vào file **sqldeveloper.exe**.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/sqldeveloper%2002.PNG" width="800" alt="sqldeveloper 02" />
+</center>
 
-- **Bước 3**:
+- **Bước 3**: Chờ cho chương trình được cài đặt, nếu có xuất hiện ra thông báo ta sẽ nhấn **No**.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/sqldeveloper%2003.PNG" width="800" alt="sqldeveloper 03" />
+</center>
 
-- **Bước 4**:
-
-- **Bước 5**:
+- **Bước 4**: giao diện của Oracle SQL Developer.
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/sqldeveloper%2004.PNG" width="800" alt="sqldeveloper 04" />
+</center>
 
 ### Cài đặt máy ảo: [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
