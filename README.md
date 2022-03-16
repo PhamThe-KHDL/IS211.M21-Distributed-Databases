@@ -107,7 +107,11 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2012.PNG" width="800" alt="Oracle 12" />
 </center>
 
-**Video Hướng Dẫn Chi tiết Cài Đặt**: [Manish Sharma](https://www.youtube.com/watch?v=ItfiRDoDjKk&t=52s)
+**Video Hướng dẫn chi tiết cài đặt**: [Manish Sharma](https://www.youtube.com/watch?v=ItfiRDoDjKk&t=52s)
+
+**Video Hướng dẫn chi tiết gỡ cài đặt Oracle**: [Manish Sharma](https://www.youtube.com/watch?v=ItfiRDoDjKk&t=636s)
+
+
 ### Cài đặt JDK: [Java SE Development Kit 17.0.2 downloads](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 
 
