@@ -128,7 +128,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/sqldeveloper%2002.PNG" width="800" alt="sqldeveloper 02" />
 </center>
 
-- **Bước 3**: Chờ cho chương trình được cài đặt, nếu có xuất hiện ra thông báo ta sẽ nhấn **Yes**.
+- **Bước 3**: Chờ cho chương trình được cài đặt, nếu có xuất hiện ra thông báo ta sẽ nhấn **No**.
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/sqldeveloper%2003.PNG" width="800" alt="sqldeveloper 03" />
 </center>
