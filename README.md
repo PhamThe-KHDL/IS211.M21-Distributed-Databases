@@ -300,12 +300,26 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
 
 ### Một số lỗi thường gặp
 
-#### Hostname
+#### Sai Hostname
 Mở **Command Prompt** lên và dùng câu lệnh **lsnrctl stat** để kiểm tra localhost.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/THEX%2001.PNG" width="800" alt="THEX 01" />
 </center>
+
+
+#### Sai SID
+Mở **SQL Plus** lên và dùng câu lệnh **select name from v$database;** để kiểm tra SID.
+
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/THEX%2002.PNG" width="800" alt="THEX 02" />
+</center>
+
+
+
+
+
+
 
 ## Tham Khảo Thêm
 - Trang chủ Oracle: [oracle.com](https://www.oracle.com/index.html)
