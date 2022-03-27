@@ -256,19 +256,19 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2000.PNG" width="800" alt="TH 00" />
 </center>
 
-- **Bước 2**: Chuyển sang SESSION ORACLE SCRIPT
+- **Bước 2**: Chuyển sang SESSION ORACLE SCRIPT dùng câu lệnh **alter session set "_ORACLE_SCRIPT"=true;**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2001.PNG" width="800" alt="TH 01" />
 </center>
 
-- **Bước 3**: Lệnh tạo USER. Trong đó: **BaiTapKHDL1** là Username, **Admin123** là Password, nhớ Username và Password để nhập lại ở **Bước 6**.
+- **Bước 3**: Lệnh tạo USER dùng câu lệnh **CREATE USER BaiTapKHDL1 identified by "Admin123";**. . Trong đó: **BaiTapKHDL1** là Username, **Admin123** là Password, nhớ Username và Password để nhập lại ở **Bước 6**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2002.PNG" width="800" alt="TH 02" />
 </center>
 
-- **Bước 4**: Gán quyền
+- **Bước 4**: Gán quyền dùng câu lệnh **grant sysdba to BaiTapHTTT1;**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2003.PNG" width="800" alt="TH 03" />
