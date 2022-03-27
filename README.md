@@ -298,9 +298,9 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2007.PNG" width="800" alt="TH 07" />
 </center>
 
-- **Bước 9**:
+### Một số lỗi thường gặp
 
-
+#### Hostname
 
 
 
