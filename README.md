@@ -252,11 +252,15 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
 
 - **Bước 1**: Mở **SQL Plus** và kiểm tra xem Oracle đã được cài đặt thành công chưa? Nếu màn hình hiện ra như hình dưới thì đã cài đặt thành công phiên bản Oracle 19c.
 
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2000.PNG" width="800" alt="TH 00" />
+</center>
 
 - **Bước 2**: Chuyển sang SESSION ORACLE SCRIPT
 
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2001.PNG" width="800" alt="TH 01" />
+</center>
 
 - **Bước 3**: Lệnh tạo USER
 
