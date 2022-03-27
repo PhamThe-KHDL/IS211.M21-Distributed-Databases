@@ -301,9 +301,11 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
 ### Một số lỗi thường gặp
 
 #### Hostname
+Mở **Command Prompt** lên và dùng câu lệnh **lsnrctl stat** để kiểm tra localhost.
 
-
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/THEX%2001.PNG" width="800" alt="THEX 01" />
+</center>
 
 ## Tham Khảo Thêm
 - Trang chủ Oracle: [oracle.com](https://www.oracle.com/index.html)
