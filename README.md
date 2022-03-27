@@ -274,9 +274,11 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2003.PNG" width="800" alt="TH 03" />
 </center>
 
-- **Bước 5**:
+- **Bước 5**: Mở SQL Deverloper lên và nhấn vào biểu tượng dấu **+**.
 
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2004.PNG" width="800" alt="TH 04" />
+</center>
 
 - **Bước 6**:
 
