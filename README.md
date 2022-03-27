@@ -262,7 +262,7 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2001.PNG" width="800" alt="TH 01" />
 </center>
 
-- **Bước 3**: Lệnh tạo USER. Trong đó: **BaiTapKHDL1** là Username, **Admin123** là Password.
+- **Bước 3**: Lệnh tạo USER. Trong đó: **BaiTapKHDL1** là Username, **Admin123** là Password, nhớ Username và Password để nhập lại ở **Bước 6**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2002.PNG" width="800" alt="TH 02" />
@@ -280,9 +280,11 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2004.PNG" width="800" alt="TH 04" />
 </center>
 
-- **Bước 6**:
+- **Bước 6**: Nhập thông tin như hình dưới rồi bấm **Test**. Lưu ý: **Username** và **Password** lấy từ **Bước 3**.
 
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2005.PNG" width="800" alt="TH 05" />
+</center>
 
 - **Bước 7**:
 
