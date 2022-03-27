@@ -318,9 +318,6 @@ Mở **SQL Plus** lên và dùng câu lệnh **select name from v$database;** đ
 
 
 
-
-
-
 ## Tham Khảo Thêm
 - Trang chủ Oracle: [oracle.com](https://www.oracle.com/index.html)
 - Kiểu dữ liệu trong Oracle: [Oracle Data Types](https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT012)
