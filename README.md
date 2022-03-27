@@ -268,7 +268,7 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2002.PNG" width="800" alt="TH 02" />
 </center>
 
-- **Bước 4**: Gán quyền dùng câu lệnh **grant sysdba to BaiTapHTTT1;**.
+- **Bước 4**: Gán quyền dùng câu lệnh **grant sysdba to BaiTapKHDL1;**.
 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2003.PNG" width="800" alt="TH 03" />
