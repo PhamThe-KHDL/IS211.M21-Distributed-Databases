@@ -286,13 +286,17 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2005.PNG" width="800" alt="TH 05" />
 </center>
 
-- **Bước 7**:
+- **Bước 7**: Khi **Status = Success** có nghĩa là không có bất cứ lỗi gì xảy ra và chúng ta đã Test thành công. Sau đó ta nhấn **Connect**.
 
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2006.PNG" width="800" alt="TH 06" />
+</center>
 
+- **Bước 8**: Màn hình sẽ hiện ra như hình dưới và chúng ta sẽ bắt đầu làm bài tập thực hành.
 
-- **Bước 8**:
-
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2007.PNG" width="800" alt="TH 07" />
+</center>
 
 - **Bước 9**:
 
