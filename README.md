@@ -72,7 +72,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2005.PNG" width="800" alt="Oracle 05" />
 </center>
 
-- **Bước 6**: Tiếp theo, màn hình sẽ xuất hiện như hình dưới. Mặc định trong ô **Oracle base** là **C:\Oracle** ta sẽ thêm thư mục mới, ở đây tôi thêm là **C:\Oracle\PhamThe**. Dưới phần **Passwword** ta nhập Passwword rồi nhấn **Next**. 
+- **Bước 6**: Tiếp theo, màn hình sẽ xuất hiện như hình dưới. Mặc định trong ô **Oracle base** là **C:\Oracle** ta sẽ thêm thư mục mới, ở đây tôi thêm là **C:\Oracle\PhamThe**. Dưới phần **Password** ta nhập Password rồi nhấn **Next**. 
 <center>
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/Oracle%2006.PNG" width="800" alt="Oracle 06" />
 </center>
@@ -262,13 +262,17 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
     <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2001.PNG" width="800" alt="TH 01" />
 </center>
 
-- **Bước 3**: Lệnh tạo USER
+- **Bước 3**: Lệnh tạo USER. Trong đó: **BaiTapKHDL1** là Username, **Admin123** là Password.
 
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2002.PNG" width="800" alt="TH 02" />
+</center>
 
 - **Bước 4**: Gán quyền
 
-
+<center>
+    <img src="https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/Image/TH%2003.PNG" width="800" alt="TH 03" />
+</center>
 
 - **Bước 5**:
 
