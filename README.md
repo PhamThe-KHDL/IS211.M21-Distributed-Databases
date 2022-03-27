@@ -250,6 +250,44 @@ Sau khi đã tải đầy đủ các file cần thiết và hoàn thành xong ph
 
 ## Setup Thực hành
 
+- **Bước 1**:
+
+
+
+- **Bước 2**:
+
+
+
+- **Bước 3**:
+
+
+
+- **Bước 4**:
+
+
+
+- **Bước 5**:
+
+
+
+- **Bước 6**:
+
+
+
+- **Bước 7**:
+
+
+
+- **Bước 8**:
+
+
+
+- **Bước 9**:
+
+
+
+
+
 
 ## Tham Khảo Thêm
 - Trang chủ Oracle: [oracle.com](https://www.oracle.com/index.html)
