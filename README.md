@@ -21,7 +21,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 07 | 01/04/2022 | Thiết Kế Cơ Sở Dữ Liệu Phân Tán |  | LT-05 | [3. Thiết kế cơ sở dữ liệu phân tán](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/3.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20ph%C3%A2n%20t%C3%A1n.pdf) |  | Offline |
 | 08 | 08/04/2022 | Ôn Tập Giữa Kỳ |  | LT-06 | [Đề Ôn Tập Giữa Kỳ](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/tree/main/L%C3%9D%20THUY%E1%BA%BET/%C4%90%E1%BB%81%20%C3%94n%20t%E1%BA%ADp%20Gi%E1%BB%AFa%20k%E1%BB%B3) |  | Online |
 | 09 | 08/04/2022 | Thiết Lập Kết Nối Giữa Các Cơ Sở Dữ Liệu Oracle |  | TH.1-03 | [TH CSDLPT Buoi03](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/TH%E1%BB%B0C%20H%C3%80NH/T%C3%80I%20LI%E1%BB%86U%20TH%E1%BB%B0C%20H%C3%80NH/TH_CSDLPT_Buoi03.pdf) |  | Offline |
-| 10 |  |  |  |  |  |  |  |
+| 10 | 22/04/2022 | Tính Trong Suôt Trong Phân Tán |  | LT-07 | [](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/4.%20T%C3%ADnh%20trong%20su%E1%BB%91t%20ph%C3%A2n%20t%C3%A1n.pdf) |  | Offline |
 | 11 |  |  |  |  |  |  |  |
 | 12 |  |  |  |  |  |  |  |
 | 13 |  |  |  |  |  |  |  |
