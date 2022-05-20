@@ -27,11 +27,9 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 13 | 06/05/2022 | Tối Ưu Hóa Truy Vấn Trong CSDL Phân Tán |  | LT-09 | [5. Tối ưu hóa truy vấn phân tán](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/5.%20T%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20truy%20v%E1%BA%A5n%20ph%C3%A2n%20t%C3%A1n.pdf) |  | Offline <br /> [09 - Tối Ưu Hóa Truy Vấn Phân Tán](https://youtu.be/fJUek5XDn7A) <br /> [Hướng dẫn giải bài tập tối ưu hóa truy vấn trong cơ sở dữ liệu phân tán](https://www.youtube.com/watch?v=fx3wX4jTSU0)|
 | 14 | 06/05/2022 | Ôn Tập |  | TH.1-05 |  |  | Offline |
 | 15 | 13/05/2022 | Tối Ưu Hóa Truy Vấn Trong CSDL Phân Tán |  | LT-10 | [5. Tối ưu hóa truy vấn phân tán](https://github.com/PhamThe-KHDL/IS211.M21-Distributed-Databases/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%20b%C3%A0i%20gi%E1%BA%A3ng/5.%20T%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20truy%20v%E1%BA%A5n%20ph%C3%A2n%20t%C3%A1n.pdf) |  | Offline <br/> [09 - Tối Ưu Hóa Truy Vấn Phân Tán](https://youtu.be/9QMpegb3om8) <br /> [Hướng dẫn giải bài tập tối ưu hóa truy vấn trong cơ sở dữ liệu phân tán](https://www.youtube.com/watch?v=fx3wX4jTSU0)  |
-| 16 |  |  |  |  |  |  |  |
-| 17 |  |  |  |  |  |  |  |
-| 18 |  |  |  |  |  |  |  |
-| 19 |  |  |  |  |  |  |  |
-| 20 |  |  |  |  |  |  |  |
+| 16 | 20/05/2022 | Ôn Tập Cuối Kỳ |  | LT-11 |  |  | Offline |
+| 17 | 20/05/2022 | Báo Cáo Đồ Án RethinkBD |  |  TH.1-06|  |  | Offline |
+
 
 
 
