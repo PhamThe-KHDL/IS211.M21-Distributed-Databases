@@ -1,0 +1,21 @@
+/* 1. Chuyển sang SESSION ORACLE SCRIPT*/
+alter session set "_ORACLE_SCRIPT"=true;
+
+/* 2. Lệnh tạo USER*/
+CREATE USER BaiTapKHDL1 identified by "Admin123";
+
+/*3. Gán quyền*/
+grant sysdba to BaiTapHTTT1;
+
+ALTER SESSION SET NLS_DATE_FORMAT =' DD/MM/YYYY HH24:MI:SS ';
+
+UID ==> U_ID
+USER ==> USER_NEW
+
+ALTER USER <BaiTapKHDL1> QUOTA UNLIMITED ON USERS; mấy bạn nhập lệnh này trong sqlplus chung lúc tạo tk để có thể insert dữ liệu
+
+/*  Kiểm tra localhost*/
+lsnrctl stat
+
+/*  Kiểm tra SID*/
+select name from v$database;

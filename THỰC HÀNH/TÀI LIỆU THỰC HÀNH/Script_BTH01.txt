@@ -1,0 +1,43 @@
+create user dhcntt identified by dhcntt;
+grant connect, dba to dhcntt;
+
+create table sinhvien(
+	masv varchar(10), 
+	makhoa varchar(10),
+	hoten varchar(50),
+	ngaysinh date,
+	gioitinh int
+);
+
+create table khoa(
+	makhoa varchar(10),
+	matruong varchar(10)
+);
+
+create table hocphi(
+	masv varchar(10),
+	hocki int,
+	sotien number
+);
+
+insert into sinhvien values ('06520224','HTTT_CNTT','Cao Dang Khoa', to_date('05/08/1988','dd/mm/yy'), 1);
+insert into sinhvien values ('06520225','HTTT_CNTT','Le Hoang Long', to_date('04/12/1988','dd/mm/yy'), 1);
+insert into sinhvien values ('06520226','HTTT_CNTT','Nguyen Tien Long', to_date('01/04/1988','dd/mm/yy'), 1);
+insert into sinhvien values ('06520227','HTTT_CNTT','Do Van Man', to_date('02/08/1988','dd/mm/yy'), 1);
+insert into sinhvien values ('06520228','HTTT_CNTT','Le Thi Thuy', to_date('12/03/1988','dd/mm/yy'), 0);
+
+insert into khoa values ('HTTT_CNTT', 'CNTT');
+insert into khoa values ('KHMT_CNTT', 'CNTT');
+insert into khoa values ('KTMT_CNTT', 'CNTT');
+insert into khoa values ('MMT_CNTT', 'CNTT');
+insert into khoa values ('CNPM_CNTT', 'CNTT');
+insert into khoa values ('KHMT_CNTT', 'CNTT');
+
+insert into hocphi values ('06520224',1,1260000);
+insert into hocphi values ('06520225',1,1260000);
+insert into hocphi values ('06520226',1,1260000);
+insert into hocphi values ('06520227',1,1260000);
+insert into hocphi values ('06520228',1,1260000);
+
+
+
