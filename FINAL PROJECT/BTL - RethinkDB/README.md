@@ -9,6 +9,6 @@
 - Võ Trần Đại - 19521308
 - Phạm Đức Thể - 19522253
 
-## Mô Phỏng Phân Tán Trong RethinDB
+## Mô Phỏng Phân Tán Trong RethinkDB
 
 [Video Báo Cáo RethinkDB](https://youtu.be/FKVnZStrMbE)
